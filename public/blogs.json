@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "author_img": "https://example.com/john_doe.jpg",
+    "reading_time": "10 minutes",
+    "cover_pic": "https://example.com/cover1.jpg",
+    "headline": "Exploring the Future of AI",
+    "hashtags": ["AI", "technology", "future"]
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "author_img": "https://example.com/jane_smith.jpg",
+    "reading_time": "8 minutes",
+    "cover_pic": "https://example.com/cover2.jpg",
+    "headline": "The Impact of Climate Change on Wildlife",
+    "hashtags": ["environment", "climate change", "wildlife"]
+  },
+  {
+    "id": 3,
+    "author": "Alex Johnson",
+    "author_img": "https://example.com/alex_johnson.jpg",
+    "reading_time": "15 minutes",
+    "cover_pic": "https://example.com/cover3.jpg",
+    "headline": "10 Must-Read Books of 2024",
+    "hashtags": ["books", "reading", "literature"]
+  },
+  {
+    "id": 4,
+    "author": "Emily Brown",
+    "author_img": "https://example.com/emily_brown.jpg",
+    "reading_time": "12 minutes",
+    "cover_pic": "https://example.com/cover4.jpg",
+    "headline": "The Art of Photography: A Beginner's Guide",
+    "hashtags": ["photography", "art", "beginner"]
+  },
+  {
+    "id": 5,
+    "author": "Michael Lee",
+    "author_img": "https://example.com/michael_lee.jpg",
+    "reading_time": "7 minutes",
+    "cover_pic": "https://example.com/cover5.jpg",
+    "headline": "Healthy Eating Habits for a Balanced Life",
+    "hashtags": ["health", "nutrition", "wellness"]
+  }
+]
